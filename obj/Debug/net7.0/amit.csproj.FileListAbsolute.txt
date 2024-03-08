@@ -1,0 +1,15 @@
+C:\Users\FOR CLONE\Desktop\amit\bin\Debug\net7.0\amit.exe
+C:\Users\FOR CLONE\Desktop\amit\bin\Debug\net7.0\amit.deps.json
+C:\Users\FOR CLONE\Desktop\amit\bin\Debug\net7.0\amit.runtimeconfig.json
+C:\Users\FOR CLONE\Desktop\amit\bin\Debug\net7.0\amit.dll
+C:\Users\FOR CLONE\Desktop\amit\bin\Debug\net7.0\amit.pdb
+C:\Users\FOR CLONE\Desktop\amit\obj\Debug\net7.0\amit.csproj.AssemblyReference.cache
+C:\Users\FOR CLONE\Desktop\amit\obj\Debug\net7.0\amit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FOR CLONE\Desktop\amit\obj\Debug\net7.0\amit.AssemblyInfoInputs.cache
+C:\Users\FOR CLONE\Desktop\amit\obj\Debug\net7.0\amit.AssemblyInfo.cs
+C:\Users\FOR CLONE\Desktop\amit\obj\Debug\net7.0\amit.csproj.CoreCompileInputs.cache
+C:\Users\FOR CLONE\Desktop\amit\obj\Debug\net7.0\amit.dll
+C:\Users\FOR CLONE\Desktop\amit\obj\Debug\net7.0\refint\amit.dll
+C:\Users\FOR CLONE\Desktop\amit\obj\Debug\net7.0\amit.pdb
+C:\Users\FOR CLONE\Desktop\amit\obj\Debug\net7.0\amit.genruntimeconfig.cache
+C:\Users\FOR CLONE\Desktop\amit\obj\Debug\net7.0\ref\amit.dll
